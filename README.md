@@ -14,4 +14,5 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This project was part of my final assignments for the Udacity Google Developer Challenge Scholarship 3.0.
-[Pixel Art Maker](https://mmosoroohh.github.io/Pixel_art_maker/)
+
+You can access the hosted project [Pixel Art Maker](https://mmosoroohh.github.io/Pixel_art_maker/)
